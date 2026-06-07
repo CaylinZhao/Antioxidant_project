@@ -1,0 +1,17 @@
+smiles,label,value,threshold_value,threshold_level,measurements,value_std,value_range,is_unstable,unit
+CC(C)(C)c1cc(O)ccc1O,0,3.419987887470576,4.0,clf1_active,1,0.0,0.0,False,pIC50
+CC(Cc1ccc(O)c(O)c1)C(C)Cc1ccc(O)c(O)c1,1,7.364516253185088,4.0,clf1_active,1,0.0,0.0,False,pIC50
+CCCCCCCCCCCCCCCC(=O)OCC(O)C1OC(=O)C(O)=C1O,0,3.747875447494356,4.0,clf1_active,1,0.0,0.0,False,pIC50
+COc1cc(C(CO)C(OC)c2ccc3c(c2)C(CO)C(c2ccc(O)c(OC)c2)O3)ccc1O,1,7.931814138253838,4.0,clf1_active,1,0.0,0.0,False,pIC50
+COc1cc(C2c3cc(O)c(OC)cc3CC3C(=O)OCC32)ccc1O,1,7.42712839779952,4.0,clf1_active,1,0.0,0.0,False,pIC50
+COc1cc(CC(CO)C(CO)Cc2ccc(O)c(OC)c2)ccc1O,1,7.471083299722345,4.0,clf1_active,1,0.0,0.0,False,pIC50
+COc1cc(CC(COC2OC(CO)C(O)C(O)C2O)C(COC2OC(CO)C(O)C(O)C2O)Cc2ccc(O)c(OC)c2)ccc1O,1,7.705533773838407,4.0,clf1_active,1,0.0,0.0,False,pIC50
+COc1ccc2c(c1O)-c1c(O)c(OC)cc3c1C(C2)[N+](C)(C)CC3,1,7.199970640755866,4.0,clf1_active,1,0.0,0.0,False,pIC50
+Cc1c(C)c2c(c(C)c1O)CCC(C)(CCCC(C)CCCC(C)CCCC(C)C)O2,1,7.712198270069773,4.0,clf1_active,1,0.0,0.0,False,pIC50
+O=C(C=Cc1ccc(O)c(O)c1)OCCc1ccccc1,0,-0.7993405494535817,4.0,clf1_active,1,0.0,0.0,False,pIC50
+O=C(C=Cc1ccc(O)c(O)c1)OCc1ccccc1,0,-0.534026106056135,4.0,clf1_active,1,0.0,0.0,False,pIC50
+O=C(CCc1ccc(O)cc1)c1c(O)cc(O)cc1O,0,-0.6334684555795865,4.0,clf1_active,1,0.0,0.0,False,pIC50
+O=C(CCc1ccc(O)cc1)c1c(O)cc(O)cc1OC1OC(CO)C(O)C(O)C1O,0,-1.8182258936139557,4.0,clf1_active,1,0.0,0.0,False,pIC50
+O=C(CCc1ccc(O)cc1)c1c(O)cc(OC2OC(CO)C(O)C(O)C2O)cc1O,0,-1.2405492482825995,4.0,clf1_active,1,0.0,0.0,False,pIC50
+O=C1OCC(Cc2cccc(O)c2)C1Cc1cccc(O)c1,1,7.324221658325915,4.0,clf1_active,1,0.0,0.0,False,pIC50
+OCC(Cc1cccc(O)c1)C(CO)Cc1cccc(O)c1,1,7.338187314462739,4.0,clf1_active,1,0.0,0.0,False,pIC50

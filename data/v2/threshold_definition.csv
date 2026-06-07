@@ -1,0 +1,9 @@
+task,clf1_active,clf2_medium,clf3_strong
+ABTS_TEAC,0.5,1.0,2.0
+DPPH_TEAC,0.5,1.0,2.0
+FRAP_TEAC,0.5,1.0,2.0
+ORAC_TEAC,0.5,1.0,2.0
+ABTS_pIC50,4.0,5.0,6.0
+DPPH_pIC50,4.0,5.0,6.0
+FRAP_pIC50,4.0,5.0,6.0
+ABTS_VCEAC,50.0,100.0,150.0
