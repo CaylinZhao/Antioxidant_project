@@ -1,4 +1,4 @@
-# MTL-BERT: Integrating Multi-Assay Bioactivity Data for AI-Driven Discovery of Superior Antioxidants
+# AntioxidantBERT: Integrating Multi-Assay Bioactivity Data for AI-Driven Discovery of Superior Antioxidants
 
 Official implementation of the paper **"Integrating multi-assay bioactivity data for AI-driven discovery of superior antioxidants"**.
 
